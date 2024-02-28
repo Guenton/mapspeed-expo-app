@@ -1,0 +1,18 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Nu Disco Dark",
+  "material-icon-theme.languages.associations": {
+    "javascriptreact": "react"
+  },
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
